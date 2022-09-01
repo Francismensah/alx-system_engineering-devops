@@ -1,6 +1,6 @@
 [0-iam_betty](https://github.com/Francismensah/alx-system_engineering-devops/blob/master/0x01-shell_permissions/0-iam_betty) - Create a script that changes your user ID to betty. You should use exactly 8 characters for your command (+1 character for the new line). You can assume that the user betty will exist when we will run your script
 
-1-who_am_i - Write a script that prints the effective userid of the current user.
+[0-iam_betty](https://github.com/Francismensah/alx-system_engineering-devops/blob/master/0x01-shell_permissions/1-who_am_i) - Write a script that prints the effective userid of the current user.
 
 3-new_owner - Write a script that changes the owner of the file hello to the user betty.
 
